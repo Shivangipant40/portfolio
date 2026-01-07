@@ -3,6 +3,7 @@ import About from './About'
 import Skills from './Skills'
 import Contact from './Contact'
 import Projects from './Projects'
+import { Link } from "react-router-dom";
 
 function Home() {
   return (
@@ -23,9 +24,9 @@ function Home() {
 
       {/* Buttons */}
       <div className="mt-8 flex gap-6 justify-center">
-      <a href='#Projects'
+      <Link to="/project"
        className='w-full sm:w-32 h-12 rounded-2xl bg-amber-300 font-semibold tracking-wide flex items-center justify-center
-                     transition-transform duration-300 hover:scale-105 hover:shadow-lg'> Explore Work</a>
+                     transition-transform duration-300 hover:scale-105 hover:shadow-lg'> Explore Work</Link>
         
         <a href="#contact"
           className="w-full sm:w-32 h-12 rounded-2xl bg-amber-300 font-semibold tracking-wide flex items-center justify-center

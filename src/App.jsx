@@ -7,6 +7,7 @@ import Home from './assets/Home'
 import {Routes, Route} from 'react-router-dom'
 import Contact from './assets/Contact'
 import Homepage from './Homepage'
+import Projects from './assets/Projects'
 
 
 
@@ -20,7 +21,7 @@ function App() {
     <Routes>
     <Route path="/" element={<Homepage />} />
     <Route path='/contact' element= {<Contact/>}/>
-    
+    <Route path='/project' element= {<Projects/>}/>
     </Routes> 
 
     </>

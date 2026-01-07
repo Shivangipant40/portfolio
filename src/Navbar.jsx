@@ -23,7 +23,6 @@ function Navbar() {
               Home
             </li>
           </Link>
-
           <Link to="/contact">
             <li className="text-amber-50 hover:text-amber-500 cursor-pointer">
               Contact

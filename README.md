@@ -1,16 +1,39 @@
-# React + Vite
+# 🌐 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive personal portfolio website built using **React** and **Tailwind CSS** to showcase my projects, skills, and contact information. The website is designed with a clean UI, smooth navigation, and mobile-first responsiveness.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 📱 Fully responsive design (mobile, tablet, desktop)
+- ⚛️ Built with React (component-based architecture)
+- 🎨 Styled using Tailwind CSS
+- 🧭 Smooth navigation between sections
+- 📂 Projects section with GitHub & Live links
+- 📄 Resume download button
+- 📬 Contact section for easy reach
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, JavaScript
+- **Styling:** Tailwind CSS
+- **Routing:** React Router
+- **Icons:** React Icons
+- **Version Control:** Git & GitHub
+
+---
+
+## 📁 Project Sections
+
+- **Home** – Introduction and CTA buttons  
+- **Projects** – Showcases featured projects:
+  - Todo App
+  - Weather App
+  - AI Mock Interview App
+- **Contact** – Get in touch section
+
+---
+
