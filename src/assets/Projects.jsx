@@ -6,17 +6,17 @@ function Projects() {
      {
         heading:"Todo-App",
         content:"A task management application that allows users to add, edit, and delete tasks efficiently.",
-        github:"",
+        github:"https://github.com/Shivangipant40/weather-app.git",
         live:"",
      },{
         heading:"Weather-App",
         content:"A weather application that displays real-time temperature, minimum and maximum temperature, and wind speed Uses a public weather API to fetch and present accurate location-based weather data",
-        github:"",
+        github:"https://github.com/Shivangipant40/weather-app.git",
          live:"",
      },{
         heading: "Ai Mock-Interview-App",
         content: "An AI-powered mock interview platform that simulates real interview questions and evaluates user responses. Designed to help candidates improve communication skills through instant feedback and practice sessions.",
-        github:"",
+        github:"https://github.com/Shivangipant40/ai-mock-interview-app.git",
         live:"",
      },
   ]
