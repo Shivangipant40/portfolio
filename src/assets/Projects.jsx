@@ -7,17 +7,17 @@ function Projects() {
         heading:"Todo-App",
         content:"A task management application that allows users to add, edit, and delete tasks efficiently.",
         github:"https://github.com/Shivangipant40/weather-app.git",
-        live:"",
+        live:"https://weather-app-seven-flame-26.vercel.app/",
      },{
         heading:"Weather-App",
         content:"A weather application that displays real-time temperature, minimum and maximum temperature, and wind speed Uses a public weather API to fetch and present accurate location-based weather data",
         github:"https://github.com/Shivangipant40/weather-app.git",
-         live:"",
+         live:"https://weather-app-seven-flame-26.vercel.app/",
      },{
         heading: "Ai Mock-Interview-App",
         content: "An AI-powered mock interview platform that simulates real interview questions and evaluates user responses. Designed to help candidates improve communication skills through instant feedback and practice sessions.",
         github:"https://github.com/Shivangipant40/ai-mock-interview-app.git",
-        live:"",
+        live:"https://ai-mock-interview-app-4xpj.vercel.app/",
      },
   ]
   return (
